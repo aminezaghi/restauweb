@@ -85,7 +85,7 @@ export default function AboutPage() {
             <div className="sticky top-24">
               <div className="relative h-80 w-full mb-6 rounded-lg overflow-hidden">
                 <Image
-                  src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                  src="https://iili.io/3xQZByl.md.jpg"
                   alt="Amine Zaghi"
                   fill
                   className="object-cover"
